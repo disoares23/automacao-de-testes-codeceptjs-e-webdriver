@@ -1,0 +1,22 @@
+{
+  "name": "automacao-codeceptjs-web1",
+  "version": "1.0.0",
+  "description": "Projeto de automacao de testes para web com webdriver",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Soares",
+  "license": "ISC",
+  "devDependencies": {
+    "@codeceptjs/configure": "^1.0.2",
+    "@wdio/selenium-standalone-service": "^8.14.0",
+    "codeceptjs": "^3.7.2",
+    "dotenv": "^16.4.7",
+    "faker": "^5.5.3",
+    "rosie": "^2.1.1",
+    "selenium-standalone": "^10.0.1",
+    "webdriverio": "^9.7.3"
+  }
+}
